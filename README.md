@@ -54,7 +54,8 @@
 </div>
 
 ---
-
+<div align="center">
   <a href="https://sansroot.github.io/My-Rices/" target="_blank">
     <img src="./catppuccin.png" height="50" alt="whatsapp logo" />
   </a>
+</div>
