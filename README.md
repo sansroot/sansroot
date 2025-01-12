@@ -9,7 +9,20 @@
 
 
 ###
+<div align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="30" alt="javascript logo"  />
+  <img width="12" />
+    <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" height="30" alt="javascript logo"  />
+  <img width="12" />
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="30" alt="javascript logo"  />
+  <img width="12" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" alt="javascript logo"  />
+  <img width="12" />
+  
+</div>
 
+
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
