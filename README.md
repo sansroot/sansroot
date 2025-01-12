@@ -4,7 +4,7 @@
 <div align="center">
   <h3>↓ Click on the icon below ↓</h3>
   <a href="https://sansroot.github.io/My-Rices/" target="_blank">
-    <img src="./catppuccin.png" height="50" alt="whatsapp logo" />
+    <h3>→</h3><img src="./catppuccin.png" height="50" alt="whatsapp logo" /><h3>←</h3>
   </a>
   <h3>↑ Click on the icon above ↑</h3>
 </div>
