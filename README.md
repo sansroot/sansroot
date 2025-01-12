@@ -52,3 +52,6 @@
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
 </div>
+---
+    <img src="./catppuccin.png" height="35" alt="rices logo" />
+  </a>
