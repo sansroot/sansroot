@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Felipe Sanches (San's)
+<h2 align="left">Hi!<br>My name is Felipe Sanches (San's).
 
 ###
 
