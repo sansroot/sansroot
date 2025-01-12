@@ -18,6 +18,10 @@
   <img width="12" />
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="30" alt="javascript logo"  />
+  <img width="12" />
+    <img src="https://img.shields.io/badge/Fortinet-EE3124.svg?style=for-the-badge&logo=Fortinet&logoColor=white" height="30" alt="javascript logo"  />
+  <img width="12" />
   
 </div>
 
