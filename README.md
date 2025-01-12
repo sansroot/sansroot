@@ -2,6 +2,7 @@
   I'm Felipe <span style="color: #FF6347;">Sanches (San's)</span>.
 </h2>
 <div align="center">
+  and i make Rices
   <a href="https://sansroot.github.io/My-Rices/" target="_blank">
     <img src="./catppuccin.png" height="50" alt="whatsapp logo" />
   </a>
