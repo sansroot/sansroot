@@ -1,4 +1,5 @@
-<h2 align="center">Hi!<br>My name is Felipe Sanches (San's).
+<h2 align="center">I'm Felipe <span style="color: #FF6347;">Sanches (San's)</span>.</h2>
+
 
 ###
 
