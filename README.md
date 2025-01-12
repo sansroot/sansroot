@@ -10,20 +10,16 @@
 
 ###
 <div align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="30" alt="javascript logo"  />
-  <img width="12" />
-    <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" height="30" alt="javascript logo"  />
-  <img width="12" />
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="30" alt="javascript logo"  />
-  <img width="12" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="30" alt="javascript logo"  />
-  <img width="12" />
-    <img src="https://img.shields.io/badge/Fortinet-EE3124.svg?style=for-the-badge&logo=Fortinet&logoColor=white" height="30" alt="javascript logo"  />
-  <img width="12" />
-  
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="30" alt="Arch Linux logo"  />
+  <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" height="30" alt="CentOS logo"  />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="30" alt="Debian logo"  />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" alt="Windows logo"  />
+  <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="30" alt="Cisco logo"  />
+  <img src="https://img.shields.io/badge/Fortinet-EE3124.svg?style=for-the-badge&logo=Fortinet&logoColor=white" height="30" alt="Fortinet logo"  />
 </div>
+
+
+  
 
 
 ###
