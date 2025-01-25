@@ -46,7 +46,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" height="30" alt="git logo" />
   <img width="12" />
-  <img src="./shellscript2.png" height="50" alt="shell script logo" />
+  <img src="./shellscript2.png" height="40" alt="shell script logo" />
   
 </div>
 
