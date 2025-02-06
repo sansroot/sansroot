@@ -32,8 +32,6 @@
 </div>
 
 ---
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,typescript,javascript,git,bash,docker,vscode,python,discord,photoshop,premiere,ae,audition&theme=dark&perline=15" alt="My Skills" /></a>
----
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://discord.com/users/ks_br" target="_blank">
