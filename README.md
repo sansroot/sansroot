@@ -1,6 +1,10 @@
 <h2 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50; font-size: 36px; margin-bottom: 20px;">
-  I'm Felipe <span style="color: #FF6347;">Sanches (San's)</span>.
+  I'm Felipe <span style="color: #FF6347;">Sanches (San's)</span>
 </h2>
+
+---
+
+
 <div align="center">
   <h3>↓ Click on the icon below ↓</h3>
   <a href="https://sansroot.github.io/My-Rices/" target="_blank">
