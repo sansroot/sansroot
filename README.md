@@ -22,14 +22,7 @@
 
 ---
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="30" alt="Arch Linux logo" />
-  <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" height="30" alt="CentOS logo" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="30" alt="Debian logo" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="30" alt="Windows logo" />
-  <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="30" alt="Cisco logo" />
-  <img src="https://img.shields.io/badge/Fortinet-EE3124.svg?style=for-the-badge&logo=Fortinet&logoColor=white" height="30" alt="Fortinet logo" />
-</div>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,typescript,javascript,git,bash,docker,vscode,python,discord,photoshop,premiere,ae,audition&theme=dark&perline=15" alt="My Skills" /></a>
 
 ---
 
