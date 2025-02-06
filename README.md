@@ -2,8 +2,6 @@
   I'm Felipe <span style="color: #FF6347;">Sanches (San's)</span>
 </h2>
 
----
-
 
 <div align="center">
   <h3>↓ Click on the icon below ↓</h3>
