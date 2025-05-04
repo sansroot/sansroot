@@ -4,13 +4,7 @@
 
 
 <div align="center">
-  <h3>↓ Click on the icon below ↓</h3>
-  <a href="https://sansroot.github.io/My-Rices/" target="_blank">
-    <div style="display: flex; align-items: center; justify-content: center;">
-      <img src="./rice.png" height="50" alt="rice logo" />
-    </div>
-  </a>
-  <h3>↑ Click on the icon above ↑</h3>
+<img src="capa.png">
 </div>
 
 
