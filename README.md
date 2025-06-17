@@ -30,7 +30,7 @@
 ---
 
 <div align="center">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,lua,c,javascript,bash,docker,html,css,react,bootstrap,photoshop,premiere,ae,audition&theme=dark&perline=15" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,python,lua,c,javascript,bash,docker,html,css,react,bootstrap,photoshop,premiere,ae,audition&theme=dark&perline=15" alt="My Skills" /></a>
 </div>
 
 
