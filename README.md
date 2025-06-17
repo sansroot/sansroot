@@ -29,9 +29,9 @@
 
 ---
 
-
+<div align="center">
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,lua,c,javascript,git,bash,docker,html,css,bootstrap,photoshop,premiere,ae,audition&theme=dark&perline=15" alt="My Skills" /></a>
-
+</div>
 
 
 ---
