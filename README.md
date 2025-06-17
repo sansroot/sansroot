@@ -1,6 +1,4 @@
-<h2 align="center" style="font-family: 'Arial', sans-serif; color: #4CAF50; font-size: 36px; margin-bottom: 20px;">
-  I'm Felipe, but you can call me  <span style="color: #FF6347;">San's!</span>
-</h2>
+
 
 
 <div align="center">
